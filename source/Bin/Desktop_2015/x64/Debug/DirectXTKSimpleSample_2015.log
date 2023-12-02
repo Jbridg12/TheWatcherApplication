@@ -1,0 +1,11 @@
+﻿  Game.cpp
+C:\Users\joshu\Desktop\502 Submission\source\Game.cpp(152,56): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\502 Submission\source\Game.cpp(153,56): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\502 Submission\source\Game.cpp(157,76): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\502 Submission\source\Game.cpp(158,76): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\502 Submission\source\Game.cpp(164,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\502 Submission\source\Game.cpp(165,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\502 Submission\source\Game.cpp(166,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\502 Submission\source\Game.cpp(171,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     Creating library Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.lib and object Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exp
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Users\joshu\Desktop\502 Submission\source\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
